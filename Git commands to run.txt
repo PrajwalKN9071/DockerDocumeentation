@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m commits
+git push origin main
+
+
+Note:
+$ git remote -v
+origin  https://github.com/PrajwalKN9071/DockerDocumeentation.git (fetch)
+origin  https://github.com/PrajwalKN9071/DockerDocumeentation.git (push)
+
