@@ -1,0 +1,64 @@
+Project 1
+Project Name	EY Mobility Pathway	Team Size	10
+Company	EY Global Services Limited	Designation	Engineer
+Start Date	Mar 2023	End Date	Present
+
+Project Description
+	The EY Mobility Pathway (EYMP) integrated solution brings together mobility technologies and services into a single, end-to-end platform that delivers value to our clients through reducing cost associated with employee mobility, while driving automation and consistent process execution for users across the mobile talent lifecycle
+It provides end-to-end Business Traveller risk assessment services across immigration, tax, EU Posted Worker directive, payroll, and banking regulatory compliance, delivered via our direct integration with SAP Concur. In addition, EYMP delivers immigration, compensation, case management, and data visualization functionality to support our clients. In time this will also include cost estimation, individual income tax, equity, and payroll features
+It will offer employees and mobility professionals an enhanced user experience with rich insights and analytics to supports better decision making.
+
+
+Role & Contribution	•	Resolve Client technical issue through research and troubleshooting.
+•	Database administration and development.
+•	Monitoring servers and application for signs of problems.
+•	Prepare accurate and timely reports.
+•	Knowledge base Updating.
+Technology &Tools	ServiceNow, Azure, SQL Server.
+
+Project 2
+
+Project Name	EY-DL-TNM-Umbrella SOW 	Team Size	12
+Company	EY Global Services Limited	Designation	Engineer
+Start Date	Nov 2022	End Date	Mar 2023
+Project Description	Provisioning resources onto azure cloud using ansible and DevOps IAC.
+
+Role & Contribution	•	Deploying the services as per the client need into the azure account using 3 types for model i.e., IS basic, IS advance and IAC.
+•	In IS basic and IS advance deploying infra using building blocks through ansible.
+•	In IAC deploying infra by running a pipeline.
+Technology &Tools	Azure Services, Azure DevOps, Ansible, Azure Pipelines
+
+Project 3
+Project Name	Vehicle Demo	Team Size	4
+Company	LTI	Designation	Trainee
+Start Date	July 2022	End Date	July 2022
+
+Project Description	Vehicle Demo is a simple monolithic application, which has the feature to create a vehicle for users and store the data of the Vehicle type for the respective user.
+Main Aim of creating this ASP.Net Core application is to deploy the application to Azure App-Service, Building the Docker image and containerize the application, deploy to AKS, and Deploy the same to IIS using Azure DevOps pipelines.
+
+Role & Contribution	•	Creating the Vehicle Demo app implementing the basic feature, performing the CRUD operations, and connecting with Azure SQL DB.
+•	Establish service-connection between Azure portal, Azure DevOps, AKS and Docker Hub
+•	Deploying Azure SQL Database server using DACPAC file through Azure pipeline
+•	Deploy the ASP.Net application to Azure WebApp using Azure DevOps pipeline.
+•	Creating a multistage release for deploying the web application to IIS using Deployment groups and AKS using Manifests file
+•	Building the Docker image and Deploying container out of it
+•	Integrating Azure Repo with Sonar Cloud to perform code quality checks.
+•	Automating the resource provisioning on Azure using Terraform.
+Technology & Tools	Git, Docker, Kubernetes, Azure-Repo, Azure Pipeline, etc.
+
+
+
+
+
+Project 4
+Project Name	Finance Management (Project Gladiator)	Team Size	5
+Company	LTI	Designation	Trainee
+Start Date	Mar 2022	End Date	Mar 2022
+
+Project Description	Finance Management is a project in Finance domain. It is a Java Web-based application which gives an idea to the users how to use EMI to buy the products. 
+
+Role & Contribution	•	Lead the team to complete the project successfully.
+•	Development of User, Retailer and Admin management pages.
+•	Authentication and UI development.
+•	R&D work for UI enhancements.
+Technology & Tools	Visual Studio, Visual Studio Code, Spring MVC, Angular, Oracle Database
